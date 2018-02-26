@@ -12,6 +12,6 @@ For better results on little training sets pretrained word embeddings should be 
 
 The first model is a simple softmax regression. Each string is represented as vector average of all words from this string.
 
-### Model_2
+## Model_2
 
 The second model is two-layers LSTM with Dropout and Softmax output.
